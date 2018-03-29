@@ -13,8 +13,7 @@ App Extension（应用扩展）是苹果于iOS8就已经推出来的新特性，
 ## 共享数据的方式
 首先需要创建App Group，如下图所示：
 
-![App_Group](7xli4x.com1.z0.glb.clouddn.com
-http://7xli4x.com1.z0.glb.clouddn.com/App_Group.png)
+![App_Group](http://7xli4x.com1.z0.glb.clouddn.com/App_Group.png)
 
 而随后所有操作都需要这个key，如group.com.corotata.PhotoExtension
 
@@ -36,8 +35,7 @@ userDefault?.integer(forKey: "number")
 ### 使用数据库共享数据
 这边用Realm来举例，你只需要分别在主应用的AppDelegate和扩展的相应ViewController里面注册以下代码，你就会发现这路径和我们平常常打开的沙盒路径不一样，它是应用与扩展共享的路径，然后使用正常的Realm存读数据就可以了。
 
-![AppGroup_SharePath](7xli4x.com1.z0.glb.clouddn.com
-http://7xli4x.com1.z0.glb.clouddn.com/AppGroup_SharePath.png)
+![AppGroup_SharePath](http://7xli4x.com1.z0.glb.clouddn.com/AppGroup_SharePath.png)
 
 
 ```
