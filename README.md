@@ -16,14 +16,14 @@
 
 | Project | Article |
 |:-------:|:------|
-|Design Patterns By Tutorials|[Memento Pattern(备忘录模式)](https://github.com/Corotata/Note/blob/master/Article/Design_Patterns_By_Tutorials阅读笔记/20180620_备忘录模式.md)</br>[Strategy Pattern (策略者模式)](https://github.com/Corotata/Note/blob/master/Article/Design_Patterns_By_Tutorials阅读笔记/20180620_策略者模式.md)</br>[Delegation Pattern(代理模式）](https://github.com/Corotata/Note/blob/master/Article/Design_Patterns_By_Tutorials阅读笔记/20180620_策略者模式.md)</br>[Singleton Pattern(单例模式)](https://github.com/Corotata/Note/blob/master/Article/Design_Patterns_By_Tutorials阅读笔记/20180620_单例模式.md)</br>[Builder Pattern（构建者模式）](https://github.com/Corotata/Note/blob/master/Article/Design_Patterns_By_Tutorials阅读笔记/20180620_构建者模式.md)</br>[Observer Pattern（通知者模式）](https://github.com/Corotata/Note/blob/master/Article/Design_Patterns_By_Tutorials阅读笔记/20180620_通知者模式.md)</br>[Model View Controller Pattern (MVC模式)](https://github.com/Corotata/Note/blob/master/Article/Design_Patterns_By_Tutorials阅读笔记/20180620_MVC模式.md)</br>[Model View Controller Pattern（MVVM模式）](https://github.com/Corotata/Note/blob/master/Article/Design_Patterns_By_Tutorials阅读笔记/20180620_MVVM模式.md)</br>
+|Design Patterns By Tutorials|[Memento Pattern(备忘录模式)](https://github.com/Corotata/Note/blob/master/Article/Design_Patterns_By_Tutorials阅读笔记/20180620_备忘录模式.md)</br>[Strategy Pattern (策略者模式)](https://github.com/Corotata/Note/blob/master/Article/Design_Patterns_By_Tutorials阅读笔记/20180620_策略者模式.md)</br>[Delegation Pattern(代理模式）](https://github.com/Corotata/Note/blob/master/Article/Design_Patterns_By_Tutorials阅读笔记/20180620_策略者模式.md)</br>[Singleton Pattern(单例模式)](https://github.com/Corotata/Note/blob/master/Article/Design_Patterns_By_Tutorials阅读笔记/20180620_单例模式.md)</br>[Builder Pattern（构建者模式）](https://github.com/Corotata/Note/blob/master/Article/Design_Patterns_By_Tutorials阅读笔记/20180620_构建者模式.md)</br>[Observer Pattern（通知者模式）](https://github.com/Corotata/Note/blob/master/Article/Design_Patterns_By_Tutorials阅读笔记/20180620_通知者模式.md)</br>[Model View Controller Pattern (MVC模式)](https://github.com/Corotata/Note/blob/master/Article/Design_Patterns_By_Tutorials阅读笔记/20180620_MVC模式.md)</br>[Model View Controller Pattern（MVVM模式）](https://github.com/Corotata/Note/blob/master/Article/Design_Patterns_By_Tutorials阅读笔记/20180620_MVVM模式.md)</br>
 ---------------------------
 
 
 # 🍀 iOS源码阅读
 | Project | Version | Article |
 |:-------:|:-------:|:------|
-|  [U17](https://github.com/spicyShrimp/U17)   ||
+|  ||
 
 # 📱 iOS
 
